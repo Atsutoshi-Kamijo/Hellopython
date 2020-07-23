@@ -1,3 +1,3 @@
-b = 'Hello '
-a = 'World'
-print (b + a)
+l  = [10, 20, 30, 40, 50]
+l
+l[2:4]
